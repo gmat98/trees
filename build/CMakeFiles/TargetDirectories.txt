@@ -1,0 +1,10 @@
+C:/Users/Giovanni/Desktop/Project1/build/CMakeFiles/Main.dir
+C:/Users/Giovanni/Desktop/Project1/build/CMakeFiles/Tests.dir
+C:/Users/Giovanni/Desktop/Project1/build/CMakeFiles/edit_cache.dir
+C:/Users/Giovanni/Desktop/Project1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Giovanni/Desktop/Project1/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+C:/Users/Giovanni/Desktop/Project1/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+C:/Users/Giovanni/Desktop/Project1/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/Giovanni/Desktop/Project1/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+C:/Users/Giovanni/Desktop/Project1/build/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+C:/Users/Giovanni/Desktop/Project1/build/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir
